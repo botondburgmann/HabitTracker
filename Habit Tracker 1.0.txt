@@ -1,0 +1,6 @@
+Habit Tracker 1.0:
+Add new habits 
+Each habit has a timer that the user can start when they are doing it
+User can pause an ongoing habit, or if they are finished they can stop
+User can list their habits
+User can see each of their habits and their history
